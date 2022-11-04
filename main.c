@@ -10,7 +10,7 @@ int main()
 {
     // int u2;
 
-    // printf("dvmdfkv\n");
+    printf("dvmdfkv\n");
     
 
 
